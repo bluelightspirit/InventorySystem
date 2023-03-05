@@ -1,5 +1,5 @@
 # InventorySystem
-## A Java game where the user tries to go for as much value or strength as possible
+## A Java game that uses the terminal where the player tries to go for as much value or strength as possible
 
 ## How does anyone play the game?
 
