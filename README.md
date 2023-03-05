@@ -55,7 +55,7 @@ Unequipping or dropping an equipped weapon or equipped armor should make the () 
 1) How to create an object that references another object from another class, regardless of how many object parameters may be needed.
 2) That adding "static" to all of the Item class' and Inventory class' methods means that only one Inventory object can be created, meaning the game would have no potential to have multiple players.
 3) How to assign values to every object in the enum created.
-4) How .ordinal() & .values() works in enums (to traverse through the enum's objects).
+4) How .ordinal() & .values() works in enums (to traverse through the enum's constants).
 5) That enum's allow methods & variables to be created similar to a class.
 
 ## What goal(s) did I accomplish?
