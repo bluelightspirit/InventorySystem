@@ -1,5 +1,5 @@
 # InventorySystem
-## A Java game that can give the user randomized Item objects with randomized data within those objects
+## A Java game where the user tries to go for as much value or strength as possible
 
 ## How does anyone play the game?
 
