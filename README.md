@@ -56,7 +56,7 @@ Unequipping or dropping an equipped weapon or equipped armor should make the () 
 2) That adding "static" to all of the Item class' and Inventory class' methods means that only one Inventory object can be created, meaning the game would have no potential to have multiple players.
 3) How to assign values to every object in the enum created.
 4) How .values() works in enums (to traverse through the enum's constants).
-5) How .ordinals() works in enums (to get the index of an enum constant)
+5) How .ordinals() works in enums (to get the index of an enum constant).
 6) That enum's allow methods & variables to be created similar to a class.
 
 ## What goal(s) did I accomplish?
