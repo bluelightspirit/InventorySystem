@@ -1,0 +1,8 @@
+Helmet
+Chestplate
+Bullet-Proof Vest
+Armguards
+Gloves
+Leggings
+Boots
+Shield

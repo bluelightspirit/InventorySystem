@@ -1,0 +1,31 @@
+Sword
+Axe
+Pickaxe
+Shovel
+Hoe
+Bow
+Wand
+Staff
+Rod
+Hammer
+Knife
+Spear
+Spiked Spatula
+Boomerang
+Tomahawk
+Sagaris
+Ono
+Labrus
+Laser
+Grenade Launcher
+Rocket Launcher
+Plasma Launcher
+Fully Automatic Machine Gun
+Semi Automatic Machine Gun
+Pistol
+Fully Automatic Rifle
+Semi Automatic Rifle
+Shotgun
+Sniper
+MP4
+SMG
