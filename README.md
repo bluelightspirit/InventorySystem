@@ -1,5 +1,5 @@
 # InventorySystem
-## A Java game that uses the terminal where the player tries to go for as much value or strength as possible by adding items to their inventory that have randomized values & strengths
+## A Java game that uses the terminal where the player tries to go for as much value or strength as possible by adding items to their inventory which have randomized values & strengths
 
 ## How does anyone play the game?
 
