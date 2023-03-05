@@ -60,7 +60,7 @@ Unequipping or dropping an equipped weapon or equipped armor should make the () 
 
 ## What goal(s) did I accomplish?
 
-I created an inventory system where the player can aim to go for as much value ($) or strength (J/ms in SkyWars) as much as possible!
+I created an inventory system where the player can aim to go for as much value ($) or strength (J/ms in SkyWars) as much as possible by adding random items to their inventory while trying not to exceed a maximum weight!
 
 ## Compiling
 
